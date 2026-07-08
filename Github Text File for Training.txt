@@ -2,4 +2,6 @@ Want to test this with a text file to see how it handles a non-binary file
 
 This is the second line which originates with the following...
 
-Adding this line from the version of Github using the Sourcetree version 
+This line is added from the GitHub folder version using GitHub Tool... 
+
+Adding this line from the version of Github using the Sourcetree version
