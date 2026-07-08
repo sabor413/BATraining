@@ -1,0 +1,3 @@
+Want to test this with a text file to see how it handles a non-binary file
+
+This is the second line which originates with the following...
