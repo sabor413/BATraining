@@ -6,4 +6,4 @@ This line is added from the GitHub folder version using GitHub Tool...
 
 Adding this line from the version of Github using the Sourcetree version
 
-Adding another line from the GitHub Desktop Tool to test merging conflicts
+Making another change using the Sourcetree version to set-up how to deal with a conflict
