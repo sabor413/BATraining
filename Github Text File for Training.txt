@@ -11,3 +11,5 @@ Making another change using the Sourcetree version to set-up how to deal with a 
 7-8-26
 Another change from the GitHub desktop side...
 
+7-8-26 Sourcetree version 1
+This is some more changes made only to branch 07-08-26v1
