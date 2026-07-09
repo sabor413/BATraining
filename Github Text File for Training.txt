@@ -19,3 +19,6 @@ Saving this change using Sourcetree this time through master branch
 
 7-8-16 change 4
 Another change coming from the GitHub Desktop version
+
+7-9-26 change 2
+Adding a new change to the file using the GitHub tool
