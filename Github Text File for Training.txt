@@ -26,5 +26,8 @@ Adding a new change to the file using the GitHub tool
 7-9-26 change 1
 Trying to add a new update to the repo from Sourcetree again for an exercise
 
+7-14-26 change 1
+Latest changes made while I was away for Git by someone else
+
 7-14-26 change 2
 These are my brand new BA updates for this project
