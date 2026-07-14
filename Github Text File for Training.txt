@@ -1,0 +1,27 @@
+Want to test this with a text file to see how it handles a non-binary file
+
+This is the second line which originates with the following...
+
+This line is added from the GitHub folder version using GitHub Tool... 
+
+Adding this line from the version of Github using the Sourcetree version
+
+Making another change using the Sourcetree version to set-up how to deal with a conflict
+
+7-8-26
+Another change from the GitHub desktop side...
+
+7-8-26 Sourcetree version 1
+This is some more changes made only to branch 07-08-26v1
+
+7-8-26
+Saving this change using Sourcetree this time through master branch
+
+7-8-16 change 4
+Another change coming from the GitHub Desktop version
+
+7-9-26 change 2
+Adding a new change to the file using the GitHub tool
+
+7-9-26 change 1
+Trying to add a new update to the repo from Sourcetree again for an exercise
